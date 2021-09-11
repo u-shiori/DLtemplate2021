@@ -1,15 +1,11 @@
 # DLtemplate2021
 
-まずは`PYENV.md`でPythonのバージョンを`3.9.0`にしてください。
+`PYENV.md`を参考にPythonのバージョンを`3.9.0`にしてください。
+
+
 ```sh
 cd DLtemplate2021
 pip install -r requirements.txt
-```
-
-## 目標
-画像認識モデル、画像検知モデル、（画像生成モデル）の構造を理解し、下記のコードがある程度理解できるようになること
-
-```sh
 cd src
 ```
 
